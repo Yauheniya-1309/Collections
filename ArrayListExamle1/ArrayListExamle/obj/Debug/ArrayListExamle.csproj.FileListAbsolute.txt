@@ -1,0 +1,6 @@
+D:\Epam\MY_PROJECT\ArrayListExamle\ArrayListExamle\bin\Debug\ArrayListExamle.exe.config
+D:\Epam\MY_PROJECT\ArrayListExamle\ArrayListExamle\bin\Debug\ArrayListExamle.exe
+D:\Epam\MY_PROJECT\ArrayListExamle\ArrayListExamle\bin\Debug\ArrayListExamle.pdb
+D:\Epam\MY_PROJECT\ArrayListExamle\ArrayListExamle\obj\Debug\ArrayListExamle.csprojResolveAssemblyReference.cache
+D:\Epam\MY_PROJECT\ArrayListExamle\ArrayListExamle\obj\Debug\ArrayListExamle.exe
+D:\Epam\MY_PROJECT\ArrayListExamle\ArrayListExamle\obj\Debug\ArrayListExamle.pdb
